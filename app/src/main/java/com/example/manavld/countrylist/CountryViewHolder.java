@@ -8,7 +8,7 @@ public class CountryViewHolder extends RecyclerView.ViewHolder{
     private TextView country_view;
     public CountryViewHolder(View itemView) {
         super(itemView);
-        country_view = itemView.findViewById(R.id.country_list_view);
+        country_view = itemView.findViewById(R.id.country_view);
     }
 
     public void bind(String country){
