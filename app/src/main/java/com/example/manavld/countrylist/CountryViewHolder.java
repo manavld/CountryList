@@ -1,7 +1,6 @@
 package com.example.manavld.countrylist;
 
 import android.support.v7.widget.RecyclerView;
-import android.view.TextureView;
 import android.view.View;
 import android.widget.TextView;
 
